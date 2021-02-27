@@ -71,20 +71,6 @@ namespace musica
             Console.WriteLine("Don't give up, no no no");
             Console.WriteLine("Don't give up, no no");
             Console.WriteLine("Don't give up!");
-
-
-
-            
-
-
-
-           
-
-
-            
-
-            
-
         }
     }
 }
